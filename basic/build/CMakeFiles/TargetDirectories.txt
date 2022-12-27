@@ -1,0 +1,14 @@
+/home/uisee/cmaketu/basic/build/CMakeFiles/install/strip.dir
+/home/uisee/cmaketu/basic/build/CMakeFiles/install/local.dir
+/home/uisee/cmaketu/basic/build/CMakeFiles/install.dir
+/home/uisee/cmaketu/basic/build/CMakeFiles/list_install_components.dir
+/home/uisee/cmaketu/basic/build/CMakeFiles/rebuild_cache.dir
+/home/uisee/cmaketu/basic/build/CMakeFiles/edit_cache.dir
+/home/uisee/cmaketu/basic/build/CMakeFiles/learncmake.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/install/local.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/install.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/list_install_components.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/rebuild_cache.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/edit_cache.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/install/strip.dir
+/home/uisee/cmaketu/basic/build/lib/CMakeFiles/listheel.dir

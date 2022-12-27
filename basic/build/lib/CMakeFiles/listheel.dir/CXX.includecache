@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uisee/cmaketu/basic/lib/list_heel.cpp
+iostream
+-
+list_heel.h
+/home/uisee/cmaketu/basic/lib/list_heel.h
+
+/home/uisee/cmaketu/basic/lib/list_heel.h
+string
+-
+

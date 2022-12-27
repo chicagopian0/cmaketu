@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblistheel.a  CMakeFiles/listheel.dir/list_heel.cpp.o
+/usr/bin/ranlib liblistheel.a

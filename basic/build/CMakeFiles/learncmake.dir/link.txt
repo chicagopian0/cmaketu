@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/learncmake.dir/src/main.cpp.o  -o learncmake  lib/liblistheel.a 

@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/learncmake.dir/src/main.cpp.o  -o learncmake  lib/liblistheel.a 
+/usr/bin/c++     CMakeFiles/learncmake.dir/src/main.cpp.o  -o learncmake   -L/home/uisee/cmaketu/basic/external/glfw/src  -Wl,-rpath,/home/uisee/cmaketu/basic/external/glfw/src external/glfw/src/libglfw3.a -lpthread /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl 
